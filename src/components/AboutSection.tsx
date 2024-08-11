@@ -9,7 +9,6 @@ export default function AboutSection() {
     "Communication",
     "Time Management",
   ];
-
   const numbersAsIcon = [<Fa1 />, <Fa2 />, <Fa3 />, <Fa4 />, <Fa5 />];
   return (
     <section id="about">

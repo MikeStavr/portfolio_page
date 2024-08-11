@@ -17,7 +17,7 @@ export default function HeroSection() {
           <a href="#contact" className="btn btn-primary mr-4">
             Contact
           </a>
-          <a href="/public/cv.pdf" className="btn btn-primary">
+          <a href="/cv.pdf" target="_blank" className="btn btn-primary">
             View CV
           </a>
         </div>
