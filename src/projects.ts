@@ -4,21 +4,21 @@ export const projects = [
   new Project(
     "Restaurant Management System",
     "A restaurant management system for managing orders and reservations written in PHP and MySQL.",
-    "./assets/images/php_mysql_proj.png",
+    "/public/static/images/php_mysql_proj.png",
     "https://github.com/MikeStavr/Internet-Technologies-Project",
     "#"
   ),
   new Project(
     "Menu management App",
     "A menu management app for managing restaurant menus written in React and MySQL.",
-    "./assets/images/restaurant_react_menu.png",
+    "/public/static/images/restaurant_react_menu.png",
     "https://github.com/MikeStavr/Restaurant-React",
     "#"
   ),
   new Project(
     "Portfolio page",
     "This portfolio page, single-page application written in React.",
-    "./assets/images/portfolio_page_preview.png",
+    "/public/static/images/portfolio_page_preview.png",
     "https://github.com/MikeStavr/portfolio_page",
     "#"
   ),
