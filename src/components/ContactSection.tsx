@@ -8,7 +8,7 @@ export default function ContactSection() {
       </h1>
       <div>
         <p className="text-md md:text-xl">You can find me on the following: </p>
-        <div className="flex flex-col md:flex-row mt-2">
+        <div className="flex flex-col justify-center md:flex-row mt-2">
           <a
             href="https://www.github.com/MikeStavr"
             target="_href"

@@ -7,7 +7,7 @@ export default function ProjectsSection() {
       <h1 className="text-center text-3xl font-bold text-primary underline decoration-double mb-8 ">
         Projects
       </h1>
-      <div className="grid grid-cols-1 md:grid-cols-3 place-items-center">
+      <div className="grid grid-cols-1 xl:grid-cols-3 place-items-center">
         {projects.map((project, index) => (
           <ProjectCard key={index} project={project} />
         ))}
